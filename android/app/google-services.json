@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "199936585370",
+    "project_id": "life-capsule-6b6b5",
+    "storage_bucket": "life-capsule-6b6b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199936585370:android:a3661ea54b5e8bf568b923",
+        "android_client_info": {
+          "package_name": "com.ecample.life_capsule"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4AweTwrAEaIGPZn_F5RKel_3BpyTSb9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199936585370:android:7ff1d647c925f43e68b923",
+        "android_client_info": {
+          "package_name": "com.example.life_capsule"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4AweTwrAEaIGPZn_F5RKel_3BpyTSb9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
